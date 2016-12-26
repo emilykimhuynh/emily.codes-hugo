@@ -47,10 +47,10 @@ a {
     font-size: medium;
     color: #868686; }
 
-p.social {
+.social {
   margin-top: 10vh;
   text-align: center; }
-  p.social a {
+  .social a {
     width: 30px;
     height: 30px;
     padding: 5px;
@@ -59,9 +59,15 @@ p.social {
     border: 1px solid #b7b7b7;
     color: #b7b7b7;
     text-decoration: none; }
-    p.social a i {
+    .social a i {
       font-size: medium; }
-    p.social a:hover {
+    .social a:hover {
       color: #ffffff;
       background: #eb7171;
       border: 1px solid #eb7171; }
+
+/**************************************
+* Mobile first design
+**************************************/
+/* Smartphones (portrait) ************/
+/* iPads (portrait) ******************/
