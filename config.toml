@@ -1,0 +1,5 @@
+languageCode = "en-us"
+title = "Emily Huynh"
+baseurl = "http://emilycodes.github.io/"
+
+theme = "homebase"
